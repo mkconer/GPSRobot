@@ -9,7 +9,7 @@
 
 #include <AFMotor.h>                                              // the Adafruit Motor Shield Library ver. 1 https://learn.adafruit.com/adafruit-motor-shield/library-install
 #include "Wire.h"                                                 // Used by I2C and HMC5883L compass
-#include "I2Cdev.h"                                               // I2C Communications Library (used for compass)
+//#include "I2Cdev.h"                                             // I2C Communications Library (used for compass)
 #include "HMC5883L.h"                                             // Library for the compass - Download from Github @ https://github.com/jarzebski/Arduino-HMC5883L
 #include <Servo.h>                                                // Servo library to control Servo arm for metal detector
 #include <SoftwareSerial.h>                                       // Software Serial for Serial Communications - not used
