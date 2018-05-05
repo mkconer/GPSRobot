@@ -3,6 +3,8 @@
 // Designed by Mark Conner
 // Files can be found at Github
 // https://github.com/mkconer/GPSRobot
+// You can find the Instructable here
+// http://www.instructables.com/id/How-to-Build-a-GPS-Guided-Robot/
 // The Robot requires an Arduino Mega, L293D motor controller, HMC5883L magnetometer, Ublox 6m GPS, and an HC-06 Bluetooth module
 // Remember to run the HMC5883L compass calibration test and enter the results into the code below under void Setup() compass.setOffset(0,0);      
 
